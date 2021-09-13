@@ -8,3 +8,6 @@ This site uses,
 * form
 
 This site should be used as a guideline and practice source.
+
+## Sitemap
+Folowing diagram shows the sitempa of the website.
